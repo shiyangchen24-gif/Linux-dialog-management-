@@ -24,7 +24,7 @@
 
 ### 步驟 1：安裝 dialog
 
-- 先安裝 `dialog`，：
+- 先安裝 `dialog`
 
 ```bash
 sudo apt update
